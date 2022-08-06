@@ -1494,7 +1494,7 @@
     (property "Value" "HRO-TYPE-C-31-M-12" (id 1) (at 38.735 33.02 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Type-C:HRO-TYPE-C-31-M-12-HandSoldering" (id 2) (at 44.45 49.53 0)
+    (property "Footprint" "assets:HRO-TYPE-C-31-M-12-HandSoldering-Reversible" (id 2) (at 44.45 49.53 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 44.45 49.53 0)
@@ -2092,7 +2092,7 @@
     (uuid f8b306b8-5583-4033-a5af-521aa75b6fc6)
     (property "Reference" "SW1" (id 0) (at 135.89 105.41 0))
     (property "Value" "SW_Push" (id 1) (at 135.89 107.95 0))
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_SKQG_WithStem" (id 2) (at 135.89 107.95 0)
+    (property "Footprint" "assets:SW_SPST_SKQG_WithStem_Reversible" (id 2) (at 135.89 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 135.89 107.95 0)
@@ -2416,109 +2416,109 @@
       (reference "C8") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/7f7a7bea-ac76-4b8f-ab35-c7a5c9bff97c"
-      (reference "D0") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D0") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/3cb65cdc-c555-4c2d-b598-d30a2905ab57"
-      (reference "D1") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D1") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/5a4b129a-c431-4e51-8b17-2947965ca67b"
-      (reference "D2") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D2") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/ddf131a5-1c30-4cba-b7c6-13e2326983ca"
-      (reference "D3") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D3") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/1528b745-7f1b-45ec-ab3c-0d84e940e9b8"
-      (reference "D4") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D4") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/b2803449-2771-40c6-aa6e-e9e9614e163a"
-      (reference "D5") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D5") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/bd57a1d3-c96b-49f6-a3dd-9ecc901f3faf"
-      (reference "D6") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D6") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/bc06fd3c-fdee-456d-a7b7-262148242cc2"
-      (reference "D10") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D10") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/a575d921-6d5c-4ce3-b920-337c965a5ecf"
-      (reference "D11") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D11") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/923d8af4-ccc4-4ded-a798-8951b159c452"
-      (reference "D12") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D12") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/ca8dfe64-05f8-4a07-929c-71378e4675ee"
-      (reference "D13") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D13") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/671f34bf-dd4c-435a-8800-e1cf709c7cf6"
-      (reference "D14") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D14") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/2352b98a-1904-4d18-84b6-39de4ec3e910"
-      (reference "D15") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D15") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/67f47ed7-00bc-44d3-b250-03f15e4c29c0"
-      (reference "D16") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D16") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/e5487800-ce2a-4f88-a8dc-372ba594d85e"
-      (reference "D20") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D20") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/c3cd4141-bd76-478c-83d2-deca477bd12c"
-      (reference "D21") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D21") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/07322988-d15b-4daf-ae54-0494e6532d0f"
-      (reference "D22") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D22") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/694102e5-44c4-43c1-bd09-fb6d2264392b"
-      (reference "D23") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D23") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/00f46c3d-9676-406c-84d2-87a85dc568a0"
-      (reference "D24") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D24") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/2e550d82-933c-4465-96e5-2ca0f8efd4db"
-      (reference "D25") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D25") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/054e3c0a-22b2-4bc6-9508-6202cd979738"
-      (reference "D26") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D26") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/b4cfff81-38af-4626-bd56-d42577d21e26"
-      (reference "D30") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D30") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/f902994d-d242-42f2-b5e3-667d345570e8"
-      (reference "D31") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D31") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/8c89cf3d-b210-4629-b2d7-6eb589bed4e0"
-      (reference "D32") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D32") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/3be83928-6fce-4a5f-873e-44789d7fa591"
-      (reference "D33") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D33") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/47451f42-95b6-4965-8528-24f1a952b4d9"
-      (reference "D34") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D34") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/da2e4e3f-80ef-48d6-b35c-9d88a0aba744"
-      (reference "D35") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D35") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/429eaa50-b9f7-47ef-b1dc-8ffdfa47717c"
-      (reference "D36") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D36") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/d80f2a04-43a7-4584-8999-43ed9bc1b673"
-      (reference "D40") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D40") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/01967857-ae11-4dd0-a628-ca2e8e8e49c7"
-      (reference "D41") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D41") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/f589ced5-2d39-4c53-a421-54cc2c2743e6"
-      (reference "D42") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D42") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/5be2aa6d-c6eb-427b-809b-71339d874a52"
-      (reference "D43") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D43") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/976fbd62-0814-4c8d-a885-f6b935ccb8d3"
-      (reference "D44") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D44") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/d69b2e71-e270-4825-b68e-7520e93aa7a5"
-      (reference "D45") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D45") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/81de72db-1d6d-41a3-a032-7383c9749d26"
-      (reference "D46") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
+      (reference "D46") (unit 1) (value "D_Small") (footprint "assets:D_SOD-123-Reversible")
     )
     (path "/cfd2d4ae-6ad0-4e61-9f65-c843ab084ff4"
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -2527,214 +2527,214 @@
       (reference "J1") (unit 1) (value "AVR-ISP-6") (footprint "random-keyboard-parts:Reset_Pretty-Mask")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/b8baca79-5620-4f40-beee-40a42b9669e9"
-      (reference "K0") (unit 1) (value "KC_ESC") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K0") (unit 1) (value "KC_ESC") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/3693fd0c-7d7e-4a2b-816d-062addd20897"
-      (reference "K1") (unit 1) (value "KC_GRV") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K1") (unit 1) (value "KC_GRV") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/cb7411ef-be7a-4ea6-aa85-62f11e5ec999"
-      (reference "K2") (unit 1) (value "KC_1") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K2") (unit 1) (value "KC_1") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/64ef9247-3f64-417d-87ef-0ecef928fdc8"
-      (reference "K3") (unit 1) (value "KC_2") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K3") (unit 1) (value "KC_2") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/c1cdd71d-318d-4617-8d10-94a790fd86e3"
-      (reference "K4") (unit 1) (value "KC_3") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K4") (unit 1) (value "KC_3") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/bc14c92c-05c3-4149-bf08-b43350678c63"
-      (reference "K5") (unit 1) (value "KC_4") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K5") (unit 1) (value "KC_4") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/04063516-34a1-405d-a02b-5389ea378307"
-      (reference "K6") (unit 1) (value "KC_5") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K6") (unit 1) (value "KC_5") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/d2f4788e-f0dd-467e-a0a9-c38be268fb26"
-      (reference "K10") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K10") (unit 1) (value "SW_Push") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/d3899214-7c5d-4779-9a97-40e4cab09699"
-      (reference "K11") (unit 1) (value "KC_TAB") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K11") (unit 1) (value "KC_TAB") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/75abe93a-1e9f-483d-92ce-973c0a1d6b3e"
-      (reference "K12") (unit 1) (value "KC_Q") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K12") (unit 1) (value "KC_Q") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/08109600-73e8-495a-b251-db6331a3dfa4"
-      (reference "K13") (unit 1) (value "KC_W") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K13") (unit 1) (value "KC_W") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/f3b4c124-f540-4705-8dba-cd429f5a934a"
-      (reference "K14") (unit 1) (value "KC_E") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K14") (unit 1) (value "KC_E") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/00126c69-0676-411b-bed4-a88b794cf991"
-      (reference "K15") (unit 1) (value "KC_R") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K15") (unit 1) (value "KC_R") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/f0423573-13af-4361-84b6-2b181db91508"
-      (reference "K16") (unit 1) (value "KC_T") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K16") (unit 1) (value "KC_T") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/b01b6bbd-7fff-44d5-8c46-b2cb465b7a27"
-      (reference "K20") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K20") (unit 1) (value "SW_Push") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/5b2d2578-373c-460c-9378-6fcc14b92b22"
-      (reference "K21") (unit 1) (value "KC_CAPS") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K21") (unit 1) (value "KC_CAPS") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/d8410dba-be88-4935-aeab-42ded8faaefb"
-      (reference "K22") (unit 1) (value "KC_A") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K22") (unit 1) (value "KC_A") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/6cc32bcd-45ba-49ce-a39d-08773b324ca2"
-      (reference "K23") (unit 1) (value "KC_S") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K23") (unit 1) (value "KC_S") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/a4a22bcd-24e5-4950-b7f3-ef353788dd39"
-      (reference "K24") (unit 1) (value "KC_D") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K24") (unit 1) (value "KC_D") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/cf82744c-ccdf-447b-81eb-52e39038c216"
-      (reference "K25") (unit 1) (value "KC_F") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K25") (unit 1) (value "KC_F") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/918f1d71-676a-4da4-a785-9a3cab107078"
-      (reference "K26") (unit 1) (value "KC_G") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K26") (unit 1) (value "KC_G") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/0c6dfe7e-d83e-4ff0-b564-ffc2a4df4225"
-      (reference "K30") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K30") (unit 1) (value "SW_Push") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/79dcfb6f-2ad3-4326-97d2-995e1d815d79"
-      (reference "K31") (unit 1) (value "KC_LSFT") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K31") (unit 1) (value "KC_LSFT") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/3671a3c7-7bc5-43f1-838c-ed9977600f31"
-      (reference "K32") (unit 1) (value "KC_Z") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K32") (unit 1) (value "KC_Z") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/9cf0ff03-67c9-4f47-b8cd-efa6c905f97c"
-      (reference "K33") (unit 1) (value "KC_X") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K33") (unit 1) (value "KC_X") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/ca7db42b-2c84-4889-8786-5874e1aeca5d"
-      (reference "K34") (unit 1) (value "KC_C") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K34") (unit 1) (value "KC_C") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/f02433bd-6e03-42d6-b9a6-2f0611e16451"
-      (reference "K35") (unit 1) (value "KC_V") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K35") (unit 1) (value "KC_V") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/5c85ca52-f9b6-4851-a5a4-1b3a5fb3f0fb"
-      (reference "K36") (unit 1) (value "KC_B") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K36") (unit 1) (value "KC_B") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/10a5235e-0efd-4cab-ad5b-1ada1cc96b47"
-      (reference "K40") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K40") (unit 1) (value "SW_Push") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/c3d2ec09-e534-4ffa-9852-6986e72f1f32"
-      (reference "K41") (unit 1) (value "KC_LCTL") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K41") (unit 1) (value "KC_LCTL") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/1ea4bb4a-ab0a-4163-9c25-17272191d7d5"
-      (reference "K42") (unit 1) (value "KC_LGUI") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K42") (unit 1) (value "KC_LGUI") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/944a9f72-7b3f-4390-a088-9a09ab819930"
-      (reference "K43") (unit 1) (value "KC_LALT") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K43") (unit 1) (value "KC_LALT") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/d326e5a2-b0be-4dda-82b7-61a588d1d0b6"
-      (reference "K44") (unit 1) (value "KC_FN") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K44") (unit 1) (value "KC_FN") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/b1fa7dd2-61db-4fca-bc9c-a23793d7868b"
-      (reference "K45") (unit 1) (value "KC_SPACE") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K45") (unit 1) (value "KC_SPACE") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/f15942e5-8705-42d6-8a2e-00cd62efadd3"
-      (reference "K46") (unit 1) (value "KC_SPACE") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u")
+      (reference "K46") (unit 1) (value "KC_SPACE") (footprint "assets:SW_choc_1u_reversible")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/e8db5518-25bc-42e2-a501-371fbee32104"
-      (reference "LED1") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED1") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/ba51a7bf-a743-46ff-ba64-15cfd0f01b38"
-      (reference "LED2") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED2") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/7c291f88-ba77-41f0-8427-d7d3726d9e43"
-      (reference "LED3") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED3") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/462c190f-e0c5-4110-bfdc-219b93e20f71"
-      (reference "LED4") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED4") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/687db7b9-587a-42d3-ae5e-2932997674d8"
-      (reference "LED5") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED5") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/d5c97fe5-bc75-46eb-ab51-de85315cf14e"
-      (reference "LED6") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED6") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/1376a811-b3c1-4c03-b4ee-6cc135052b06"
-      (reference "LED7") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED7") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/4783dc3c-b9ea-4ca0-93d5-8676cffb63c4"
-      (reference "LED8") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED8") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/60e6e8b0-d427-4c39-b329-dc3f326fa8fb"
-      (reference "LED9") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED9") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/45c82565-86ae-4904-91db-dbb00ea1351c"
-      (reference "LED10") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED10") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/6322b021-9b16-4988-b4c1-1b9b382e0798"
-      (reference "LED11") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED11") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/d613ea91-8a95-4a76-9be2-dacb4f9a675a"
-      (reference "LED12") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED12") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/f9529f76-11df-4401-b233-b19b64d2f1d1"
-      (reference "LED13") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED13") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/0326ad61-7d69-409f-a202-1c676c9ba228"
-      (reference "LED14") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED14") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/e17136a9-d1c7-47de-a561-680f183fb837"
-      (reference "LED15") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED15") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/b1673543-56fb-4eff-b4cb-055ffe4886c4"
-      (reference "LED16") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED16") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/0d2c8d8b-ccac-46b7-ac01-cfc7bb07d04e"
-      (reference "LED17") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED17") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/1fcba114-7e89-459b-9cf7-70faa4d49778"
-      (reference "LED18") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED18") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/66801469-76c8-4a2a-ac34-80cd8da7e07f"
-      (reference "LED19") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED19") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/6a09e725-3fa5-4b33-b8c0-99f5cc70f29c"
-      (reference "LED20") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED20") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/238eb4f0-f0e3-4cc3-ab3c-651fd9e90828"
-      (reference "LED21") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED21") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/32dc523e-9257-4a1c-96bd-24d007292b05"
-      (reference "LED22") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED22") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/d3f493c9-6873-44c8-948d-41e5c443ef77"
-      (reference "LED23") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED23") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/47388f7c-6846-47d4-a53a-d22ad7b310dc"
-      (reference "LED24") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED24") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/64ebeb5f-6b84-42b2-9ba6-45f3081cde0c"
-      (reference "LED25") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED25") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/b04591e4-cf85-4fc9-98dd-ccf22fd57ad0"
-      (reference "LED26") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED26") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/56687d0c-a0fa-4d94-83ad-d1ab7c1c7811"
-      (reference "LED27") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED27") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/f32323ef-94e7-4b33-8375-278281059c36"
-      (reference "LED28") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED28") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/b15be752-f71c-4c46-92a8-80df6d75ef9d"
-      (reference "LED29") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED29") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/d212e2eb-8fd3-4bd2-9d55-d49057eafc2e"
-      (reference "LED30") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED30") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/44c7917a-106f-442a-bb27-5d93202adb7a"
-      (reference "LED31") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED31") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/b223ec07-079e-414f-91cb-4985c651f070"
-      (reference "LED32") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED32") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/f3ce5073-8709-4555-b412-8aae2360fcb6"
-      (reference "LED33") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED33") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/30c67685-0610-4a0e-b012-c8e505f74245"
-      (reference "LED34") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED34") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/5a908e01-e617-4d01-80da-fd5e2370c1c6/14470be8-76b2-438b-ace3-e8e4ebc0a500"
-      (reference "LED35") (unit 1) (value "choc_SK6812MINI-E") (footprint "marbastlib-choc:LED_choc_6028R")
+      (reference "LED35") (unit 1) (value "choc_SK6812MINI-E") (footprint "assets:LED_choc_6028R_Reversible_same_side")
     )
     (path "/e113c90c-b8df-476c-91a1-49ca9ee70c69"
       (reference "R1") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -2758,7 +2758,7 @@
       (reference "R7") (unit 1) (value "500") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/f8b306b8-5583-4033-a5af-521aa75b6fc6"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_SKQG_WithStem")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "assets:SW_SPST_SKQG_WithStem_Reversible")
     )
     (path "/51ef07c7-3278-4541-a6a6-dc62f85acb67"
       (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
@@ -2767,7 +2767,7 @@
       (reference "U2") (unit 1) (value "PRTR5V0U2X") (footprint "random-keyboard-parts:SOT143B")
     )
     (path "/2e587e13-a5bc-4510-9883-75342fdcdbbc"
-      (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-12") (footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering")
+      (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-12") (footprint "assets:HRO-TYPE-C-31-M-12-HandSoldering-Reversible")
     )
     (path "/e2d649df-ac78-43b0-8038-8df6d7de7541"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering")
