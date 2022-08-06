@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "(6.0.6)"
     },
-    "CreationDate": "2022-08-06T01:33:39+08:00"
+    "CreationDate": "2022-08-07T05:05:38+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "5x7",
-      "GUID": "3578372e-6b69-4636-9164-5f7063625858",
+      "Name": "5x07",
+      "GUID": "35783037-2e6b-4696-9361-645f70636258",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 165.9938,
-      "Y": 100.9077
+      "X": 168.375,
+      "Y": 103.2889
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.2,
       "TrackToRegion": 0.508,
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "5x7-F_Cu.gtl",
+      "Path": "5x07-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "5x7-B_Cu.gbl",
+      "Path": "5x07-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "5x7-F_Paste.gtp",
+      "Path": "5x07-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "5x7-B_Paste.gbp",
+      "Path": "5x07-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "5x7-F_Silkscreen.gto",
+      "Path": "5x07-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "5x7-B_Silkscreen.gbo",
+      "Path": "5x07-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "5x7-F_Mask.gts",
+      "Path": "5x07-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "5x7-B_Mask.gbs",
+      "Path": "5x07-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "5x7-Edge_Cuts.gm1",
+      "Path": "5x07-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

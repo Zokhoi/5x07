@@ -1,4 +1,4 @@
-21971273971371152
+21972933840660593
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -4094,7 +4094,7 @@ C Axial series Axial Horizontal pin pitch 20mm  length 12mm diameter 8.5mm
 0
 2
 2
-Capacitor_THT
+Capacitor,_THT
 C_Axial_L12.0mm_D9.5mm_P15.00mm_Horizontal
 C, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=12*9.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
 C Axial series Axial Horizontal pin pitch 15mm  length 12mm diameter 9.5mm
@@ -7659,7 +7659,7 @@ neutrik xlr a
 5
 Connector_Audio
 Jack_XLR_Neutrik_NC4MBH_Horizontal
-B Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4mbh
+B Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https,://www.neutrik.com/en/product/nc4mbh
 neutrik xlr b
 0
 5
@@ -10507,7 +10507,7 @@ te fpc 84952
 30
 29
 Connector_FFC-FPC
-TE_2-84952-9_1x29-1MP_P1.0mm_Horizontal
+TE_2-84952-9_1x29-1,MP_P1.0mm_Horizontal
 TE FPC connector, 29 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
 te fpc 84952
 0
@@ -13589,7 +13589,7 @@ Through hole vertical IDC header THT 2x25 2.54mm double row
 Connector_IDC
 IDC-Header_2x25_P2.54mm_Vertical
 Through hole IDC box header, 2x25, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
-Through hole vertical IDC box header THT 2x25 2.54mm double row
+Through hole vertical IDC box header THT 2x25 2.54mm double r,ow
 0
 50
 50
@@ -17479,7 +17479,7 @@ connector JST ZE top entry
 10
 10
 Connector_JST
-JST_ZE_S11B-ZESK-2D_1x11_P1.50mm_Horizontal
+JST_ZE_S11B-ZESK-2D_1x1,1_P1.50mm_Horizontal
 JST ZE series connector, S11B-ZESK-2D (http://www.jst-mfg.com/product/pdf/eng/eZE.pdf), generated with kicad-footprint-generator
 connector JST ZE top entry
 0
@@ -20447,7 +20447,7 @@ connector Molex Mini-Fit_Jr top entryscrew_flange
 2
 2
 Connector_Molex
-Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal
+Molex_Mini-Fit_Jr_5,569-02A2_2x01_P4.20mm_Horizontal
 Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5569-02A2, example for new mpn: 39-30-0020, 1 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039300020_sd.pdf), generated with kicad-footprint-generator
 connector Molex Mini-Fit_Jr top entryplastic_peg
 0
@@ -23897,7 +23897,7 @@ phoenix_contact connector GMSTBVA_01x02_G_7.62mm
 0
 2
 2
-Connector_Phoenix_GMSTB
+Connector_P,hoenix_GMSTB
 PhoenixContact_GMSTBVA_2,5_2-G_1x02_P7.50mm_Vertical
 Generic Phoenix Contact connector footprint for: GMSTBVA_2,5/2-G; number of pins: 02; pin pitch: 7.50mm; Vertical || order number: 1766660 12A 630V
 phoenix_contact connector GMSTBVA_01x02_G_7.50mm
@@ -26496,7 +26496,7 @@ phoenix_contact connector MSTBVA_01x16_G_5.00mm
 16
 Connector_Phoenix_MSTB
 PhoenixContact_MSTBV_2,5_2-GF-5,08_1x02_P5.08mm_Vertical_ThreadedFlange
-Generic Phoenix Contact connector footprint for: MSTBV_2,5/2-GF-5,08; number of pins: 02; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1777073 12A || order number: 1924525 16A (HC)
+Generic Phoenix Contact connector footprint for: MSTBV_2,5/2-GF-5,08; number of pins: 02; pin pitch: 5.08mm; Vertical; thr,eaded flange || order number: 1777073 12A || order number: 1924525 16A (HC)
 phoenix_contact connector MSTBV_01x02_GF_5.08mm
 0
 2
@@ -29961,7 +29961,7 @@ Through hole pin header THT 1x22 1.27mm single row
 22
 Connector_PinHeader_1.27mm
 PinHeader_1x22_P1.27mm_Vertical_SMD_Pin1Left
-surface-mounted straight pin header, 1x22, 1.27mm pitch, single row, style 1 (pin 1 left)
+surface-mounted straight pin header, 1x22, 1.27mm pitch,, single row, style 1 (pin 1 left)
 Surface mounted pin header SMD 1x22 1.27mm single row style1 pin1 left
 0
 22
@@ -34204,7 +34204,7 @@ Surface mounted pin header SMD 1x34 2.54mm single row style2 pin1 right
 Connector_PinHeader_2.54mm
 PinHeader_1x35_P2.54mm_Horizontal
 Through hole angled pin header, 1x35, 2.54mm pitch, 6mm pin length, single row
-Through hole angled pin header THT 1x35 2.54mm single row
+,Through hole angled pin header THT 1x35 2.54mm single row
 0
 35
 35
@@ -37648,7 +37648,7 @@ Through hole angled socket strip THT 2x26 1.27mm double row
 Connector_PinSocket_1.27mm
 PinSocket_2x26_P1.27mm_Vertical
 Through hole straight socket strip, 2x26, 1.27mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x26 1.27mm double row
+,Through hole socket strip THT 2x26 1.27mm double row
 0
 52
 52
@@ -40909,7 +40909,7 @@ Surface mounted socket strip SMD 1x34 2.54mm single row style2 pin1 right
 34
 Connector_PinSocket_2.54mm
 PinSocket_1x35_P2.54mm_Horizontal
-Through hole angled socket strip, 1x35, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
+Through hole angled socket strip, 1x35, 2.54mm pitch, 8.51mm socket length, single row (from Kicad ,4.0.7), script generated
 Through hole angled socket strip THT 1x35 2.54mm single row
 0
 35
@@ -43695,7 +43695,7 @@ connector Samtec HLE horizontal
 74
 Connector_Samtec_HLE_SMD
 Samtec_HLE-137-02-xxx-DV-BE_2x37_P2.54mm_Horizontal
-Samtec HLE .100" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-137-02-xxx-DV-BE, 37 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-dv-footprint.pdf), generated with kicad-footprint-generator
+Samtec HLE .100" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-137-02-xxx-DV-BE, 37 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-dv-footprint.pdf), generated with kic,ad-footprint-generator
 connector Samtec HLE horizontal
 0
 74
@@ -46306,7 +46306,7 @@ connector wire 0.1sqmm double-strain-relief
 1
 Connector_Wire
 SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm
-Soldered wire connection, for 2 times 0.1 mm² wires, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.1 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+Soldered wire connection, for 2 times 0.1 mm² wires, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.1 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 t,imes outer diameter, generated with kicad-footprint-generator
 connector wire 0.1sqmm
 0
 2
@@ -48364,7 +48364,7 @@ connector Wuerth WR-WTB vertical
 8
 Connector_Wuerth
 Wuerth_WR-WTB_64800911622_1x09_P1.50mm_Vertical
-Wuerth WR-WTB series connector, 64800911622 (https://katalog.we-online.com/em/datasheet/6480xx11622.pdf), generated with kicad-footprint-generator
+Wuerth WR-WTB series connector, 64800911622 (https://katalog.we-online.com/em/datasheet/648,0xx11622.pdf), generated with kicad-footprint-generator
 connector Wuerth WR-WTB vertical
 0
 9
@@ -52879,7 +52879,7 @@ Fuseholder 5x20mm horizontal closed
 2
 Fuse
 Fuseholder_Cylinder-5x20mm_Schurter_OGN-SMD_Horizontal_Open
-Fuseholder horizontal open, 5x20mm, 500V, 16A (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_OGN-SMD.pdf)
+Fuseholder hori,zontal open, 5x20mm, 500V, 16A (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_OGN-SMD.pdf)
 Fuseholder horizontal open 5x20 Schurter 0031.8221
 0
 2
@@ -56939,7 +56939,7 @@ Keebio-Parts
 6
 Keebio-Parts
 AST1109MLTRQ
-Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
+Murata Buzzer http://www.murata.com/en-us/api/pdfdownloa,dapi?cate=&partno=PKMCS0909E4000-R1
 Murata Buzzer Beeper
 0
 2
@@ -63253,7 +63253,7 @@ Mounting M3 9775051360
 1
 Mounting_Wuerth
 Mounting_Wuerth_WA-SMSR-M3_H5.6mm_ReverseMount_9775056360
-Mounting Hardware, inside through hole M3, height 5.6, Wuerth electronics 9775056360 (https://katalog.we-online.com/em/datasheet/9775056360.pdf), generated with kicad-footprint-generator
+Mounting Hardware, inside throug,h hole M3, height 5.6, Wuerth electronics 9775056360 (https://katalog.we-online.com/em/datasheet/9775056360.pdf), generated with kicad-footprint-generator
 Mounting M3 9775056360
 0
 8
@@ -67523,7 +67523,7 @@ QFN NoLead
 17
 Package_DFN_QFN
 QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias
-QFN, 16 Pin (http://www.thatcorp.com/datashts/THAT_1580_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN, 16 Pin (http://www.thatcorp.com/datashts/THAT_1580_Datasheet.pdf), generated with kicad-footprint-generator ipc_,noLead_generator.py
 QFN NoLead
 0
 31
@@ -71737,7 +71737,7 @@ SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
 12
 Package_DIP
 SMDIP-14_W7.62mm
-14-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+14-lead surface-mounted (SMD) DIP package, row spac,ing 7.62 mm (300 mils)
 SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
 0
 14
@@ -76148,7 +76148,7 @@ SOT-1289 CFP15
 Package_TO_SOT_SMD
 OnSemi_ECH8
 On Semiconductor ECH8, https://www.onsemi.com/pub/Collateral/318BF.PDF
-ECH8 SOT28-FL SOT-28-FL
+ECH8 SOT28-FL S,OT-28-FL
 0
 8
 8
@@ -81318,7 +81318,7 @@ resistor handsolder
 0
 2
 2
-Resistor_SMD
+Resis,tor_SMD
 R_1210_3225Metric
 Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
@@ -85673,7 +85673,7 @@ Logo ESD
 0
 0
 Symbol
-ESD-Logo_13.2x12mm_SilkScreen
+ESD-Logo_13.2x12mm_SilkSc,reen
 Electrostatic discharge Logo
 Logo ESD
 0
@@ -88523,7 +88523,7 @@ THT terminal block RND 205-00006 pitch 5mm size 35x9mm^2 drill 1.3mm pad 2.5mm
 7
 TerminalBlock_RND
 TerminalBlock_RND_205-00007_1x08_P5.00mm_Horizontal
-terminal block RND 205-00007, 8 pins, pitch 5mm, size 40x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+terminal block RND 205-00007, 8 pins, pitch 5mm, size 40x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://gith,ub.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
 THT terminal block RND 205-00007 pitch 5mm size 40x9mm^2 drill 1.3mm pad 2.5mm
 0
 8
@@ -91015,7 +91015,7 @@ TEZ PCB Transformer
 9
 Transformer_THT
 Transformer_Breve_TEZ-38x45
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
+http://www.breve.pl,/pdf/ANG/TEZ_ang.pdf
 TEZ PCB Transformer
 0
 9
@@ -92279,6 +92279,13 @@ Add-on for regular choc-footprints with 6028 reverse mount LED
 kailh choc 6028 rearmount rear mount led rgb backlight
 0
 8
+4
+assets
+PJ-3200B-4A-Reversible
+
+
+0
+5
 4
 assets
 SW_SPST_SKQG_WithStem_Reversible
