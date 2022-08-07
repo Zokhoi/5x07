@@ -2378,7 +2378,7 @@
     (property "Value" "AVR-ISP-6" (id 1) (at 132.08 143.5099 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "random-keyboard-parts:Reset_Pretty-Mask" (id 2) (at 134.62 142.24 90)
+    (property "Footprint" "random-keyboard-parts:Reset_Pretty" (id 2) (at 134.62 142.24 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 108.585 157.48 0)
@@ -2963,7 +2963,7 @@
       (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "random-keyboard-parts:Generic-Mounthole")
     )
     (path "/e5bff2ed-4470-4084-a621-480b9de3ee53"
-      (reference "J1") (unit 1) (value "AVR-ISP-6") (footprint "random-keyboard-parts:Reset_Pretty-Mask")
+      (reference "J1") (unit 1) (value "AVR-ISP-6") (footprint "random-keyboard-parts:Reset_Pretty")
     )
     (path "/332de923-a953-48c5-8038-c90a3d96a3d1"
       (reference "J2") (unit 1) (value "AudioJack3_Ground") (footprint "assets:PJ-3200B-4A-Reversible")
