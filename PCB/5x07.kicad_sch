@@ -2002,7 +2002,7 @@
     (property "Value" "AVR-ISP-6" (id 1) (at 132.08 143.5099 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "random-keyboard-parts:Reset_Pretty-Mask" (id 2) (at 134.62 142.24 90)
+    (property "Footprint" "random-keyboard-parts:Reset_Pretty" (id 2) (at 134.62 142.24 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 108.585 157.48 0)
@@ -2524,7 +2524,7 @@
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/e5bff2ed-4470-4084-a621-480b9de3ee53"
-      (reference "J1") (unit 1) (value "AVR-ISP-6") (footprint "random-keyboard-parts:Reset_Pretty-Mask")
+      (reference "J1") (unit 1) (value "AVR-ISP-6") (footprint "random-keyboard-parts:Reset_Pretty")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/b8baca79-5620-4f40-beee-40a42b9669e9"
       (reference "K0") (unit 1) (value "KC_ESC") (footprint "assets:SW_choc_1u_reversible")
