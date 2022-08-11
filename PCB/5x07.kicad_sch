@@ -1764,7 +1764,7 @@
     (uuid 332de923-a953-48c5-8038-c90a3d96a3d1)
     (property "Reference" "J2" (id 0) (at 139.065 62.23 0))
     (property "Value" "AudioJack3_Ground" (id 1) (at 139.065 64.77 0))
-    (property "Footprint" "assets:PJ-3200B-4A-Reversible" (id 2) (at 140.97 71.12 0)
+    (property "Footprint" "assets:PJ-3200B-4A-Reversible-Mini" (id 2) (at 140.97 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.97 71.12 0)
@@ -2966,7 +2966,7 @@
       (reference "J1") (unit 1) (value "AVR-ISP-6") (footprint "random-keyboard-parts:Reset_Pretty")
     )
     (path "/332de923-a953-48c5-8038-c90a3d96a3d1"
-      (reference "J2") (unit 1) (value "AudioJack3_Ground") (footprint "assets:PJ-3200B-4A-Reversible")
+      (reference "J2") (unit 1) (value "AudioJack3_Ground") (footprint "assets:PJ-3200B-4A-Reversible-Mini")
     )
     (path "/4787577f-7d8a-45a2-be7c-203d64397828/b8baca79-5620-4f40-beee-40a42b9669e9"
       (reference "K0") (unit 1) (value "KC_ESC") (footprint "assets:SW_choc_1u_reversible")
