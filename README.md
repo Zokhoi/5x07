@@ -25,7 +25,8 @@ This is a project that began as my first adventure into PCB and keyboard design.
 |                                                                                                                                                        | [22Ω](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-ARG05BTC0220_C309084.html)                                                                            | 2      | For USB-C data                  |
 |                                                                                                                                                        | [330Ω](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-ARG05BTC3300_C2984456.html)                                                                          | 1      | For reset circuit               |
 | 1206/3212 SMD Fuse                                                                                                                                     | [500mA](https://lcsc.com/product-detail/PTC-Resettable-Fuses_TECHFUSE-nSMD025-24V_C70069.html)                                                                                      | 1      |                                 |
-| Diodes                                                                                                                                                 | [1N4148](https://lcsc.com/product-detail/Switching-Diode_MCC-Micro-Commercial-Components-1N4148W-TP_C77978.html) or SMD                                                             | 35     |                                 |
+| Diodes                                                                                                                                                 | [1N4148](https://lcsc.com/product-detail/Switching-Diode_MCC-Micro-Commercial-Components-1N4148W-TP_C77978.html) or SMD                                                             | 35     | For keyboard matrix             |
+|                                                                                                                                                        | [Schottky](https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Shikues-B5817WL_C122853.html)                                                                                | 1      | For USB-C power                 |
 | 0805 SMD Capacitors                                                                                                                                    | [22 pF](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21C220JCANNNC_C165459.html)                                          | 2      | For crystal                     |
 |                                                                                                                                                        | [1 uF](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics_CL21B105KAFNNNE_Samsung-Electro-Mechanics-CL21B105KAFNNNE_C116352.html) | 1      | For MCU UCAP                    |
 |                                                                                                                                                        | [10 uF](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21B106KOQNNNE_10uF-106-10-16V_C95841.html)                                             | 1      | For decoupling                  |
@@ -42,6 +43,8 @@ Unleaded HASL or ENIG <br />
 white on black
 
 ## Assembly instructions
+
+The images below are PCBs for v3.
 
 ![v3pcbfront.png](./assets/v3pcbfront.png)
 
@@ -67,13 +70,15 @@ make 5x07:default:dfu-split-right
 
 afterwards the end part can be dropped when flashing again.
 
-For v3 there is no VBUS detection, so USB activity detection must be used for split master detection if you do not want to hardcode the master half.
+For v3 and below there is no VBUS detection, so USB activity detection must be used for split master detection if you do not want to hardcode the master half. <br />
+V3.1 onwards has VBUS detection and you can use it normally.
 
 ## CAUTIONS
 
 I couldn't for the life of me figure out how to stably enable the per key RGB, so use at your own risk.
 
 Some problems that I encountered were:
+
 * RHS board (using EEPROM flags) could have RGB lights on in QMK, but then it disconnects if the mode switches from the static gradient to static solid color.
 * RHS board can change modes between different static gradients if its hue/saturation/value are turned down first.
 * LHS board disconnects from computer immediately after connection when RGB is enabled. If the USB is connected to RHS board and LHS is connected to RHS via i2c, it would drag both halves down with the disconnection. After disconnection, the RGB lights start to flicker.
